@@ -1,0 +1,12 @@
+.drop-container {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  .sidenavcontent{
+    width:20%;
+    margin-top: 1%;
+    background-color: aquamarine;
+  }
